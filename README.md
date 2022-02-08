@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @And8919
-- 👀 I’m interested in HTML and CSS
-- 🌱 I’m currently learning HTML, CSS
+- 👀 I’m interested in Python, Raspberry Pi.
+- 🌱 I’m currently learning Python on Raspberry Pi 400!
 
 <!---
 And8919/And8919 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
